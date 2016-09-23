@@ -1,6 +1,6 @@
 This file is for tutorial purposes only!
 
 HeeloWorld config:
-- abd: True;
+- abc: True;
 - cde: True;
-- fgi: False;
+- fgh: False;
