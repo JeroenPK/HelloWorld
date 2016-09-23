@@ -3,3 +3,4 @@ This file is for tutorial purposes only!
 This is the HelloWorldFeature2 spec:
 - Darn World!
 - Tricky World!
+- Bright World!
