@@ -1,4 +1,0 @@
-This file is for tutorial purposes only!
-
-This is the HelloWorldFeature3 test data:
-Hello, World, Wonderful, World, Tricky, World
