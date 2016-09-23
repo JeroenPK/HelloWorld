@@ -1,6 +1,6 @@
 This file is for tutorial purposes only!
 
-HeeloWorld config:
+HelloWorld config:
 - abc: True;
-- cde: True;
-- fgh: False;
+- def: False;
+- ghi: True;
