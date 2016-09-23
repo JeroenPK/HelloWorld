@@ -4,3 +4,5 @@ This is the HelloWorldFeature1 spec:
 - Hello World!
 - Wonderful World!
 - Colorful World!
+
+Feature1 is released!
