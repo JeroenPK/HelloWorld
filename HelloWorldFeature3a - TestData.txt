@@ -1,4 +1,4 @@
 This file is for tutorial purposes only!
 
 This is the HelloWorldFeature3a test data:
-Savvy, World, Wet, World, Pirate, World
+Savvy, World, Wet, World, Pirate, World, Ships, World
